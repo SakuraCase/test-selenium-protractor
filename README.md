@@ -1,7 +1,10 @@
 
 ### 参考
-[DockerSelenium構築](http://blog.cybozu.io/entry/8113)
-[DockerSelenium構築](https://github.com/angular/protractor-cookbook/tree/master/protractor-docker)
-[DockerNode構築](http://docs.docker.jp/engine/examples/nodejs_web_app.html)
+[サイボウズブログ](http://blog.cybozu.io/entry/8113)
+[angular/protractor-cookbook](https://github.com/angular/protractor-cookbook/tree/master/protractor-docker)
 
-[Protractor使い方](http://qiita.com/zoetro/items/b72130960c39055b8474)
+
+### memo
+nodeもdockerで用意しようとして色々したけど出来なかった
+問題は恐らくコンテナ間の接続関係
+

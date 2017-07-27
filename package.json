@@ -1,0 +1,9 @@
+{
+	"name": "test-protractor",
+	"dependencies": {
+		"protractor": "4.0.13"
+	},
+	"scripts": {
+		"test": "protractor conf.js"
+	}
+}
